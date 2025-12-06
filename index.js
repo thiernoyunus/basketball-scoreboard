@@ -39,3 +39,13 @@ function newGame() {
     awayScore = 0
     awayScoreCount.textContent = 0
 }
+
+Object.assign(window, {
+    add1Home,
+    add2Home,
+    add3Home,
+    add1Guest,
+    add2Guest,
+    add3Guest,
+    newGame
+})
