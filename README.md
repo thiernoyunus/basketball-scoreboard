@@ -1,4 +1,8 @@
 <p align="center">
+  <img src=".github/assets/logo.png" width="112" alt="Basketball Scoreboard logo" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/header/glow.svg?title=Basketball+Scoreboard&subtitle=Keep+score+for+Home+and+Guest&logo=nba&mode=dark" />
     <img alt="Basketball Scoreboard" src="https://shieldcn.dev/header/glow.svg?title=Basketball+Scoreboard&subtitle=Keep+score+for+Home+and+Guest&logo=nba&mode=light" />
